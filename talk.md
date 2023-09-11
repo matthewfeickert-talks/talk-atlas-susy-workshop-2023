@@ -1,7 +1,7 @@
 class: middle, center, title-slide
 count: false
 
-# LHC Reinterpretation Forum 2023 Summary
+# LHC Reinterpretation Forum<br>2023 Summary
 .large.blue[Matthew Feickert]<br>
 .large[(University of Wisconsin-Madison)]
 <br>
