@@ -75,20 +75,6 @@ class: end-slide, center
 Backup
 
 ---
-# Zenodo: DOI minting made easy
-
-- Everything on Zenodo has a DOI
-   - Provides both a .bold[project] DOI (resolves to latest) and .bold[version specific] DOI
-- Enable it to [automatically preserve work from GitHub](https://guides.github.com/activities/citable-code/) (can also directly upload, but lose out on automation)
-   - Benefit from having a DOI for .bold[every version] regardless of software paper landscape state
-- Once you have a DOI, put it .bold[everywhere] (again)
-   - Recommend sharing the project DOI and letting users select a specific version if they want it
-
-.center[
-.width-80[[![Zenodo_DOI_guide](figures/Zenodo_DOI_guide.png)](https://zenodo.org/account/settings/github/)]
-]
-
----
 # Julia ecosystem for easier CUDA
 
 .huge[
