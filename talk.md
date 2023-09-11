@@ -21,6 +21,14 @@ September 12th, 2023
    - questions: 5 minutes
 
 ---
+# Talk notes ATLAS
+
+* [Reduce, Reuse, Reinterpret](https://conference.ippp.dur.ac.uk/event/1178/contributions/6442/), Giordon Stark
+* [Active Learning for analysis reinterpretation and constraining additional physics parameters](https://conference.ippp.dur.ac.uk/event/1178/contributions/6449/), Christian Weber
+* [Using unbinned measurements for new physics](https://conference.ippp.dur.ac.uk/event/1178/contributions/6431/), Ben Nachman
+* [HEP Statistics Serialization Standard](https://conference.ippp.dur.ac.uk/event/1178/contributions/6463/), Carsten Burgard
+
+---
 # My motivations on this topic
 
 .kol-1-2[
@@ -39,17 +47,16 @@ September 12th, 2023
 .center.width-30[[![logo_IRIS-HEP](assets/logos/logo_IRIS-HEP.png)](https://iris-hep.org/)]
 
 .center.width-40[[![logo_ATLAS](assets/logos/logo_ATLAS.png)](https://atlas.cern/)]
-
-.center.width-30[[![logo_ATLAS](figures/scikit-hep-logo.svg)](https://scikit-hep.org/)]
 ]
 
 ---
 # Summary
 
 .huge[
-* Whirlwind tour of lifting analysis code from version control, to packages, distributed binaries, and the rest of the world
-* Not a hopeless bog of technical debt, but community infrastructure built by people who you can collaborate with
-* Reusable code can be a nucleation point for communities
+* Clear advantage that ATLAS has over CMS at the moment is publication of full statistical models and rich HEPData
+   - Broader community loudly wants this and wants to provide citations
+* Should be thinking about connections with LHC SMEFT community
+* Reuse is important
 ]
 
 .kol-1-4[
