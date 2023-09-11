@@ -59,28 +59,6 @@ September 12th, 2023
    </a>
 </p>
 ]
-.kol-1-4[
-<p style="text-align:center;">
-   <a href="https://pypi.org/">
-      <img src="figures/pypi-logo.svg"; width=95%>
-   </a>
-</p>
-]
-.kol-1-4[
-<br>
-<p style="text-align:center;">
-   <a href="https://conda-forge.org/">
-      <img src="figures/conda-forge-anvil.png"; width=95%>
-   </a>
-</p>
-]
-.kol-1-4[
-<p style="text-align:center;">
-   <a href="https://paperswithcode.com/">
-      <img src="figures/papers-with-code.png"; width=95%>
-   </a>
-</p>
-]
 
 ---
 # References
