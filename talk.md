@@ -49,7 +49,7 @@ September 12th, 2023
 .huge[
 * Rich HEPData archives seen to provide useful information for theory colleagues
    - Made very clear that the information that ATLAS is providing is useful and they want to be able to cite it
-* Use of ATLAS full statistical models providing enhancement to theory recasting tools by allowing use of control regions during fits
+* Use of ATLAS full statistical models providing enhancement to theory recasting tools by allowing use of control regions during fits and improved combinations
 ]
 ]
 .kol-1-2[
@@ -58,13 +58,13 @@ September 12th, 2023
       <img src="figures/checkmate-atlas-full-models.png"; width=70%>
    </a>
 </p>
-.caption[Signal region combination in CheckMATE]
+.caption[[Signal region combination in CheckMATE](https://conference.ippp.dur.ac.uk/event/1178/contributions/6439/), Krzysztof Rolbiecki]
 <p style="text-align:center;">
    <a href="https://conference.ippp.dur.ac.uk/event/1178/contributions/6454/">
       <img src="figures/smodels-atlas-control-regions.png"; width=70%>
    </a>
 </p>
-.caption[New developments in SModelS]
+.caption[[New developments in SModelS](https://conference.ippp.dur.ac.uk/event/1178/contributions/6454/), Sabine Kraml]
 ]
 
 ---
@@ -82,7 +82,7 @@ September 12th, 2023
       <img src="figures/spey-full-likelihoods.png"; width=100%>
    </a>
 </p>
-.caption[Spey: smooth inference for reinterpretation studies]
+.caption[[Spey: smooth inference for reinterpretation studies](https://conference.ippp.dur.ac.uk/event/1178/contributions/6436/), Jack Araz]
 ]
 
 ---
@@ -100,7 +100,7 @@ September 12th, 2023
       <img src="figures/spey-atlas-susy-2018-31-plot.png"; width=100%>
    </a>
 </p>
-.caption[Spey: smooth inference for reinterpretation studies]
+.caption[[Spey: smooth inference for reinterpretation studies](https://conference.ippp.dur.ac.uk/event/1178/contributions/6436/), Jack Araz]
 ]
 
 ---
@@ -150,7 +150,7 @@ September 12th, 2023
    </a>
 </p>
 
-.caption[[Save the EFT: a primer for the ATLAS+CMS combination in the top sector, Kirill Skovpen](https://conference.ippp.dur.ac.uk/event/1178/contributions/6434/)]
+.caption[[Save the EFT: a primer for the ATLAS+CMS combination in the top sector](https://conference.ippp.dur.ac.uk/event/1178/contributions/6434/), Kirill Skovpen]
 ]
 
 ---
@@ -159,7 +159,7 @@ September 12th, 2023
 .kol-1-3[
 .large[
 * While full statistical models allow for calculating the profiled likelihood during reinterpretation, the additional computation time might be traded for faster approximations for large surveys
-* Learning a DNN representation of the profile likelihood allows for speedup while maintaining decent accuracy
+* Learning a DNN representation of the profile likelihood allows for speedup while maintaining sufficient accuracy
 ]
 ]
 .kol-2-3[
@@ -169,11 +169,23 @@ September 12th, 2023
    </a>
 </p>
 
-.caption[[Parametrising profiled likelihoods with neural networks, Humberto Reyes-González](https://conference.ippp.dur.ac.uk/event/1178/contributions/6435/)]
+.caption[[Parametrising profiled likelihoods with neural networks](https://conference.ippp.dur.ac.uk/event/1178/contributions/6435/), Humberto Reyes-González]
 
 .large[
 * NN model serialzed to ONNX distributed to Zenodo
 ]
+]
+
+---
+# Active learning
+
+.kol-1-2[
+.large[
+* Active learning
+]
+]
+.kol-1-2[
+* Active learning
 ]
 
 ---
@@ -190,14 +202,14 @@ September 12th, 2023
 ]
 .kol-1-2[
 .large[
-* ATLAS SUSY has made two ML models public through archival on Zenodo, though publication of lwtnn files to HEPData has yet to happen
+* ATLAS SUSY has made two ML models public through archival on Zenodo, though publication of `lwtnn` files to HEPData has yet to happen
 ]
 <p style="text-align:center;">
    <a href="https://conference.ippp.dur.ac.uk/event/1178/contributions/6461/">
       <img src="figures/ATLAS-SUSY-ml-models-zenodo.png"; width=100%>
    </a>
 </p>
-.caption[[Recastable ML, Tomasz Procter](https://conference.ippp.dur.ac.uk/event/1178/contributions/6461/)]
+.caption[[Recastable ML](https://conference.ippp.dur.ac.uk/event/1178/contributions/6461/), Tomasz Procter]
 ]
 
 ---
