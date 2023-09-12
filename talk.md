@@ -154,7 +154,7 @@ September 12th, 2023
 ]
 
 ---
-# ML representations of profiled likelihoods
+# ML + reinterpretation: DNN profiled likelihoods
 
 .kol-1-3[
 .large[
@@ -177,19 +177,51 @@ September 12th, 2023
 ]
 
 ---
-# Active learning
+# ML + reinterpretation: Active learning
 
 .kol-1-2[
-.large[
-* Active learning
+.huge[
+* Linear grid search in for limit setting in parameter space is computationally intensive
+* Instead can learn the exclusion contour with active learning reducing total computing time
+   - Requires intensive ML workflow though
 ]
 ]
 .kol-1-2[
-* Active learning
+<br>
+<p style="text-align:center;">
+   <a href="https://conference.ippp.dur.ac.uk/event/1178/contributions/6449/">
+      <img src="figures/exclusion-learning.png"; width=100%>
+   </a>
+</p>
+.caption[[Active Learning](https://conference.ippp.dur.ac.uk/event/1178/contributions/6449/), Christian Weber]
 ]
 
 ---
-# Challenges: Publication of ML data products
+# ML + reinterpretation: Active learning
+
+.kol-1-2[
+.large[
+* [ATL-PHYS-PUB-2023-010](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PUBNOTES/ATL-PHYS-PUB-2023-010/) leverages REANA to run the workflows at scale with analysis loop until contour learned
+]
+<p style="text-align:center;">
+   <a href="https://conference.ippp.dur.ac.uk/event/1178/contributions/6449/">
+      <img src="figures/active-learning-workflow.png"; width=85%>
+   </a>
+</p>
+.caption[[ATL-PHYS-PUB-2023-010](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PUBNOTES/ATL-PHYS-PUB-2023-010/)]
+]
+.kol-1-2[
+<br>
+<p style="text-align:center;">
+   <a href="https://conference.ippp.dur.ac.uk/event/1178/contributions/6449/">
+      <img src="figures/active-learning-summary.png"; width=100%>
+   </a>
+</p>
+.caption[[Active Learning](https://conference.ippp.dur.ac.uk/event/1178/contributions/6449/), Christian Weber]
+]
+
+---
+# ML + reinterpretation: Publication of data products
 
 .kol-1-2[
 .large[
@@ -202,7 +234,8 @@ September 12th, 2023
 ]
 .kol-1-2[
 .large[
-* ATLAS SUSY has made two ML models public through archival on Zenodo, though publication of `lwtnn` files to HEPData has yet to happen
+* ATLAS SUSY has made two ML models public through archival on HEPData via ONNX, though publication of `lwtnn` files to HEPData has yet to happen
+   <!-- - [ATLAS-SUSY-2019-04](https://www.hepdata.net/record/resource/2677521?landing_page=true) -->
 ]
 <p style="text-align:center;">
    <a href="https://conference.ippp.dur.ac.uk/event/1178/contributions/6461/">
