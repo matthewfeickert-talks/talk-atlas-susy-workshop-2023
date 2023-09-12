@@ -114,6 +114,30 @@ September 12th, 2023
 .caption[Spey: smooth inference for reinterpretation studies]
 ]
 
+---
+# Fuller HEPData information
+
+.kol-1-2[
+.huge[
+* HS3
+]
+]
+.kol-1-2[
+* HS3
+]
+
+---
+# Fuller HEPData information
+
+.kol-1-2[
+.huge[
+* EFT Combination CMS
+]
+]
+.kol-1-2[
+* EFT Combination CMS
+]
+
 
 ---
 # Summary
