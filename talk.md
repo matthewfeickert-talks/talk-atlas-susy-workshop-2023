@@ -38,7 +38,7 @@ September 12th, 2023
 .large[
 * Perspectives from the [8th workshop](https://conference.ippp.dur.ac.uk/event/1178/) of the [Forum on the interpretation of the LHC results for BSM studies](https://twiki.cern.ch/twiki/bin/view/LHCPhysics/InterpretingLHCresults)
 
-* Much to summarize from an engaging week, so instead focusing on
+* Much to summarize from an engaging week of discussions with ATLAS, CMS, Belle II, and theory, but focusing on
    - Accomplishments in publishing .bold[rich HEPData and full statistical models]
    - Work towards publishing and reusing .bold[machine learning workflows]
    - First meeting of the [LHC EFT Working Group](https://lpcc.web.cern.ch/lhc-eft-wg) with the Reinterpretation Forum
@@ -50,28 +50,22 @@ September 12th, 2023
       <img src="https://conference.ippp.dur.ac.uk/event/1178/attachments/5014/6449/Screenshot%202023-08-31%20at%207.14.40%20am.png"; width=100%>
    </a>
 </p>
+.caption[[LHC Reinterpretation Forum 2023, IPPP Durham](https://conference.ippp.dur.ac.uk/event/1178/)]
 ]
 
 ---
-# My motivations on this topic
+# Fuller HEPData information
 
-.kol-1-2[
+.kol-1-3[
 .large[
-* Postdoc in high energy physics and data science at University of Wisconsin-Madison Data Science Institute
-* Analysis Systems area lead for IRIS-HEP
-* Member of ATLAS collaboration
-   - Happy collaborator of TUM ATLAS group!
-* Administrator of Scikit-HEP community organization
-* Care about .bold[reusable] open science to be able to push physics forward at the .bold[community scale]
+* Rich HEPData archives seen to provide useful information for theory colleagues
+   - Made very clear that the information that ATLAS is providing is useful and they want to be able to cite it
 ]
 ]
-.kol-1-2[
-.center.width-65[[![logo_IRIS-HEP](assets/logos/logo_institution.png)](https://datascience.wisc.edu/institute/)]
+.kol-2-3[
+X
+]
 
-.center.width-30[[![logo_IRIS-HEP](assets/logos/logo_IRIS-HEP.png)](https://iris-hep.org/)]
-
-.center.width-40[[![logo_ATLAS](assets/logos/logo_ATLAS.png)](https://atlas.cern/)]
-]
 
 ---
 # Summary
@@ -81,14 +75,6 @@ September 12th, 2023
    - Broader community loudly wants this and wants to provide citations
 * Should be thinking about connections with LHC SMEFT community
 * Reuse is important
-]
-
-.kol-1-4[
-<p style="text-align:center;">
-   <a href="https://github.com/">
-      <img src="figures/github-mark.svg"; width=95%>
-   </a>
-</p>
 ]
 
 ---
