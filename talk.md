@@ -227,10 +227,9 @@ September 12th, 2023
 .kol-1-2[
 .large[
 * The "Les Houches guide to reusable ML models in LHC analyses" guidelines (forthcoming) advocates
+   - As ML becomes increasingly a core part of analysis workflow also important to preserve the workflows
    - Use of open source machine learning framework
    - Serialize ML model in preservation format for inference (e.g. [ONNX](https://onnx.ai/), [lwtnn](https://github.com/lwtnn/lwtnn))
-   - Improved definitions and documentation of all input and output variables for ML model
-   - Leverage validated analysis code implementation (e.g.`rivet` or `SimpleAnlaysis`)
 ]
 ]
 .kol-1-2[
@@ -244,6 +243,27 @@ September 12th, 2023
    </a>
 </p>
 .caption[[Recastable ML](https://conference.ippp.dur.ac.uk/event/1178/contributions/6461/), Tomasz Procter]
+]
+
+---
+# ML + reinterpretation: Publication of data products
+
+.kol-1-2[
+.large[
+* Supplementary Material
+   - Improved definitions and documentation of all input and output variables for ML model
+   - Leverage .bold[validated] analysis code implementation (e.g.`rivet` or `SimpleAnlaysis`)
+   - At minimum, would want a short note that could be uploaded alongside ML model serialization
+* ATLAS `SimpleAnalysis` and RECAST already puts these within easy reach
+]
+]
+.kol-1-2[
+.large[
+* Validation Material
+   - Cutflows: When cuts depend on a neural net output
+   - Along with cutflows need to know exact signal models (provide SHLA files, simulation run cards)
+   - Input and output plots (especially for important features)
+]
 ]
 
 ---
