@@ -153,6 +153,29 @@ September 12th, 2023
 .caption[[Save the EFT: a primer for the ATLAS+CMS combination in the top sector, Kirill Skovpen](https://conference.ippp.dur.ac.uk/event/1178/contributions/6434/)]
 ]
 
+---
+# Challenges: Publication of ML data products
+
+.kol-1-2[
+.large[
+* The "Les Houches guide to reusable ML models in LHC analyses" guidelines (forthcoming) advocates
+   - Use of open source machine learning framework
+   - Serialize ML model in preservation format for inference (e.g. [ONNX](https://onnx.ai/), [lwtnn](https://github.com/lwtnn/lwtnn))
+   - Improved definitions and documentation of all input and output variables for ML model
+   - Leveraging `rivet` or `SimpleAnlaysis`
+]
+]
+.kol-1-2[
+.large[
+* ATLAS SUSY has made two ML models public through archival on Zenodo, though publication of lwtnn files to HEPData has yet to happen
+]
+<p style="text-align:center;">
+   <a href="https://conference.ippp.dur.ac.uk/event/1178/contributions/6461/">
+      <img src="figures/ATLAS-SUSY-ml-models-zenodo.png"; width=100%>
+   </a>
+</p>
+.caption[[Recastable ML, Tomasz Procter](https://conference.ippp.dur.ac.uk/event/1178/contributions/6461/)]
+]
 
 ---
 # Summary
