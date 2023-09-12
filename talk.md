@@ -275,6 +275,28 @@ Backup
 * [Global Effective Field Theory fits from ATLAS](https://conference.ippp.dur.ac.uk/event/1178/contributions/6441/), Rahul Balasubramanian
 
 ---
+# Reinterpretation for unbinned measurements
+
+.kol-1-2[
+.large[
+* Inference-aware binning
+   - Publish measurement, then for reinterpretation select optimal binning for analysis
+* Derivative Measurements
+   - Allows later for $f(x)$ when $x$ measured
+* Extension to higher-dimensions
+   - ML tools extend readily to multiple dimensions
+]
+]
+.kol-1-2[
+<p style="text-align:center;">
+   <a href="https://conference.ippp.dur.ac.uk/event/1178/contributions/6431/">
+      <img src="figures/unbinned_measurements.png"; width=100%>
+   </a>
+</p>
+.caption[[Using unbinned measurements for new physics](https://conference.ippp.dur.ac.uk/event/1178/contributions/6431/), Ben Nachman]
+]
+
+---
 
 class: end-slide, center
 count: false
