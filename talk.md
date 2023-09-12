@@ -117,14 +117,32 @@ September 12th, 2023
 ]
 ]
 .kol-1-2[
+<br>
 <p style="text-align:center;">
    <a href="https://conference.ippp.dur.ac.uk/event/1178/contributions/6463/">
-      <img src="figures/HS3-overview.png"; width=82%>
+      <img src="figures/HS3-overview.png"; width=100%>
    </a>
 </p>
+.caption[[HEP Statistics Serialization Standard](https://conference.ippp.dur.ac.uk/event/1178/contributions/6463/), Carsten Burgard]
+]
+
+---
+# HEPData gains: Full statistical models
+
+.kol-1-2[
+.large[
+* The [HEP Statistics Serialization Standard (HS3)](https://github.com/hep-statistics-serialization-standard/hep-statistics-serialization-standard) allows for more publication through HEP universal serialization to JSON
+   - Goal: Write (model) once, run anywhere
+* Current draft version of HS3 available in the `master` branch of ROOT is being used to serialize a RooFit workspace for ongoing ATLAS analysis
+   - `BAT.jl` implementation WIP
+   - `pyhf` implementation planned following future development
+]
+]
+.kol-1-2[
+<br>
 <p style="text-align:center;">
    <a href="https://conference.ippp.dur.ac.uk/event/1178/contributions/6463/">
-      <img src="figures/HS3-workspace-json.png"; width=82%>
+      <img src="figures/HS3-workspace-json.png"; width=100%>
    </a>
 </p>
 .caption[[HEP Statistics Serialization Standard](https://conference.ippp.dur.ac.uk/event/1178/contributions/6463/), Carsten Burgard]
