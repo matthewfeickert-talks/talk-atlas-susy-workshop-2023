@@ -240,7 +240,7 @@ September 12th, 2023
 ]
 <p style="text-align:center;">
    <a href="https://conference.ippp.dur.ac.uk/event/1178/contributions/6461/">
-      <img src="figures/ATLAS-SUSY-ml-models-zenodo.png"; width=100%>
+      <img src="figures/ATLAS-SUSY-ml-models-zenodo.png"; width=90%>
    </a>
 </p>
 .caption[[Recastable ML](https://conference.ippp.dur.ac.uk/event/1178/contributions/6461/), Tomasz Procter]
