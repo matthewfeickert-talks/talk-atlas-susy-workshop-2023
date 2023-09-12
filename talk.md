@@ -60,10 +60,22 @@ September 12th, 2023
 .large[
 * Rich HEPData archives seen to provide useful information for theory colleagues
    - Made very clear that the information that ATLAS is providing is useful and they want to be able to cite it
+* Use of full statistical models providing enhancement to theory recasting tools by allowing use of control regions during fits
 ]
 ]
 .kol-2-3[
-X
+<p style="text-align:center;">
+   <a href="https://conference.ippp.dur.ac.uk/event/1178/contributions/6439/">
+      <img src="figures/checkmate-atlas-full-models.png"; width=50%>
+   </a>
+</p>
+.caption[Signal region combination in CheckMATE]
+<p style="text-align:center;">
+   <a href="https://conference.ippp.dur.ac.uk/event/1178/contributions/6454/">
+      <img src="figures/smodels-atlas-control-regions.png"; width=50%>
+   </a>
+</p>
+.caption[New developments in SModelS]
 ]
 
 
@@ -78,25 +90,9 @@ X
 ]
 
 ---
-# References
-
-1. [Level Up Your Python](https://henryiii.github.io/level-up-your-python/), Henry Schreiner
-2. [Python Packaging User Guide, Packaging Python Projects Tutorial](https://packaging.python.org/en/latest/tutorials/packaging-projects/), The PyPA
-3. [Scientific Python Library Development Guide](https://learn.scientific-python.org/development/), Scientific Python (originally made by Scikit-HEP)
-4. [`cookie`](https://github.com/scientific-python/cookie), Scientific Python (originally made by Scikit-HEP)
-5. [INTERSECT's packaging tutorial](https://intersect-training.org/packaging/), INTERSECT
-
----
 class: end-slide, center
 
 Backup
-
----
-# Julia ecosystem for easier CUDA
-
-.huge[
-Julia's packaging system seems to be working, as using [CUDA libraries in Julia](https://juliagpu.org/) is rather simple.
-]
 
 ---
 
