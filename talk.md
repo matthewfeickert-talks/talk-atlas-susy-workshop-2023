@@ -26,11 +26,11 @@ September 12th, 2023
 .kol-1-2[
 .large[
 * Perspectives from the [8th workshop](https://conference.ippp.dur.ac.uk/event/1178/) of the [Forum on the interpretation of the LHC results for BSM studies](https://twiki.cern.ch/twiki/bin/view/LHCPhysics/InterpretingLHCresults)
+   - First meeting of the [LHC EFT Working Group](https://lpcc.web.cern.ch/lhc-eft-wg) with the Reinterpretation Forum
 
 * Much to summarize from an engaging week of discussions with ATLAS, CMS, Belle II, and theory, but focusing on
    - Accomplishments in publishing .bold[rich HEPData and full statistical models]
    - Work towards publishing and reusing .bold[machine learning workflows]
-   - First meeting of the [LHC EFT Working Group](https://lpcc.web.cern.ch/lhc-eft-wg) with the Reinterpretation Forum
 ]
 ]
 .kol-1-2[
@@ -250,9 +250,10 @@ September 12th, 2023
 
 .huge[
 * Clear advantage that ATLAS has over CMS at the moment is publication of full statistical models and rich HEPData
-   - Broader community loudly wants this and wants to provide citations
-* Should be thinking about connections with LHC SMEFT community
-* Reuse is important
+   - Broader community loudly wants to use it and wants to cite it when used
+* ML continues to bring new approaches to reinterpretation and community recommendations
+   - Les Houches guide to reusable ML models in LHC analyses guidelines
+   - Across theory and experiment advantages being seen in terms of compute saving
 ]
 
 ---
