@@ -21,17 +21,6 @@ September 12th, 2023
    - questions: 5 minutes
 
 ---
-# Talk notes ATLAS
-
-* [Reduce, Reuse, Reinterpret](https://conference.ippp.dur.ac.uk/event/1178/contributions/6442/), Giordon Stark
-* [Active Learning for analysis reinterpretation and constraining additional physics parameters](https://conference.ippp.dur.ac.uk/event/1178/contributions/6449/), Christian Weber
-* [Using unbinned measurements for new physics](https://conference.ippp.dur.ac.uk/event/1178/contributions/6431/), Ben Nachman
-* [HEP Statistics Serialization Standard](https://conference.ippp.dur.ac.uk/event/1178/contributions/6463/), Carsten Burgard
-* [Reusing Neural Networks: Lessons learned and Suggestions for the future](https://conference.ippp.dur.ac.uk/event/1178/contributions/6461/), Tomasz Procter
-* [Parametrising profiled likelihoods with neural networks](https://conference.ippp.dur.ac.uk/event/1178/contributions/6435/), Humberto Reyes-González
-* [Global Effective Field Theory fits from ATLAS](https://conference.ippp.dur.ac.uk/event/1178/contributions/6441/), Rahul Balasubramanian
-
----
 # LHC Reinterpretation Forum 2023
 
 .kol-1-2[
@@ -54,7 +43,7 @@ September 12th, 2023
 ]
 
 ---
-# Fuller HEPData information
+# HEPData benefits: Full statistical models
 
 .kol-1-2[
 .huge[
@@ -79,7 +68,7 @@ September 12th, 2023
 ]
 
 ---
-# Fuller HEPData information
+# HEPData benefits: Full statistical models
 
 .kol-1-2[
 .huge[
@@ -97,7 +86,7 @@ September 12th, 2023
 ]
 
 ---
-# Fuller HEPData information
+# HEPData benefits: Full statistical models
 
 .kol-1-2[
 .huge[
@@ -115,27 +104,53 @@ September 12th, 2023
 ]
 
 ---
-# Fuller HEPData information
+# HEPData benefits: Full statistical models
 
 .kol-1-2[
-.huge[
-* HS3
+.large[
+* The [HEP Statistics Serialization Standard (HS3)](https://github.com/hep-statistics-serialization-standard/hep-statistics-serialization-standard) allows for more publication through HEP universal serialization to JSON
+   - Goal: Write (model) once, run anywhere
+* Current draft version of HS3 available in the `master` branch of ROOT is being used to serialize a RooFit workspace for ongoing ATLAS analysis
+   - `BAT.jl` implementation WIP
+   - `pyhf` implementation planned following future development
 ]
 ]
 .kol-1-2[
-* HS3
+<p style="text-align:center;">
+   <a href="https://conference.ippp.dur.ac.uk/event/1178/contributions/6463/">
+      <img src="figures/HS3-overview.png"; width=82%>
+   </a>
+</p>
+<p style="text-align:center;">
+   <a href="https://conference.ippp.dur.ac.uk/event/1178/contributions/6463/">
+      <img src="figures/HS3-workspace-json.png"; width=82%>
+   </a>
+</p>
+.caption[[HEP Statistics Serialization Standard](https://conference.ippp.dur.ac.uk/event/1178/contributions/6463/), Carsten Burgard]
 ]
 
 ---
-# Fuller HEPData information
+# HEPData benefits: Full statistical models
 
 .kol-1-2[
 .huge[
-* EFT Combination CMS
+* Growing interest in pursuing full statistical model benefits is evident from CMS studies towards combined ATLAS+CMS top EFT
+* Tooling for bidirectional translation from HistFactory to CMS Combine model serialization with goals of simplifying ATLAS+CMS combinations
 ]
 ]
 .kol-1-2[
-* EFT Combination CMS
+<p style="text-align:center;">
+   <a href="https://conference.ippp.dur.ac.uk/event/1178/contributions/6434/">
+      <img src="figures/pyhf2combine-translation.png"; width=75%>
+   </a>
+</p>
+<p style="text-align:center;">
+   <a href="https://conference.ippp.dur.ac.uk/event/1178/contributions/6434/">
+      <img src="figures/save-eft-summary.png"; width=75%>
+   </a>
+</p>
+
+.caption[[Save the EFT: a primer for the ATLAS+CMS combination in the top sector, Kirill Skovpen](https://conference.ippp.dur.ac.uk/event/1178/contributions/6434/)]
 ]
 
 
@@ -153,6 +168,17 @@ September 12th, 2023
 class: end-slide, center
 
 Backup
+
+---
+# Talks from ATLAS Collaborators
+
+* [Reduce, Reuse, Reinterpret](https://conference.ippp.dur.ac.uk/event/1178/contributions/6442/), Giordon Stark
+* [Active Learning for analysis reinterpretation and constraining additional physics parameters](https://conference.ippp.dur.ac.uk/event/1178/contributions/6449/), Christian Weber
+* [Using unbinned measurements for new physics](https://conference.ippp.dur.ac.uk/event/1178/contributions/6431/), Ben Nachman
+* [HEP Statistics Serialization Standard](https://conference.ippp.dur.ac.uk/event/1178/contributions/6463/), Carsten Burgard
+* [Reusing Neural Networks: Lessons learned and Suggestions for the future](https://conference.ippp.dur.ac.uk/event/1178/contributions/6461/), Tomasz Procter
+* [Parametrising profiled likelihoods with neural networks](https://conference.ippp.dur.ac.uk/event/1178/contributions/6435/), Humberto Reyes-González
+* [Global Effective Field Theory fits from ATLAS](https://conference.ippp.dur.ac.uk/event/1178/contributions/6441/), Rahul Balasubramanian
 
 ---
 
