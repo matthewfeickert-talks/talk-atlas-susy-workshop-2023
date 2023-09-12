@@ -8,17 +8,9 @@ count: false
 [matthew.feickert@cern.ch](mailto:matthew.feickert@cern.ch)
 <br>
 
-[ATLAS SUSY Workshop 2023](https://indico.cern.ch/event/1274064/timetable/#44-reinterpretation-forum-summ)
+[ATLAS SUSY Workshop 2023](https://indico.cern.ch/event/1274064/contributions/5551300/)
 
 September 12th, 2023
-
-<!-- ---
-# Talk notes
-
-* ATLAS Summary of the 2023 (Re)interpretation of the LHC results for new physics
-* Talk time: 20 minutes
-   - talk: 15 minutes
-   - questions: 5 minutes -->
 
 ---
 # LHC Reinterpretation Forum 2023
