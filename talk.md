@@ -56,26 +56,62 @@ September 12th, 2023
 ---
 # Fuller HEPData information
 
-.kol-1-3[
-.large[
+.kol-1-2[
+.huge[
 * Rich HEPData archives seen to provide useful information for theory colleagues
    - Made very clear that the information that ATLAS is providing is useful and they want to be able to cite it
-* Use of full statistical models providing enhancement to theory recasting tools by allowing use of control regions during fits
+* Use of ATLAS full statistical models providing enhancement to theory recasting tools by allowing use of control regions during fits
 ]
 ]
-.kol-2-3[
+.kol-1-2[
 <p style="text-align:center;">
    <a href="https://conference.ippp.dur.ac.uk/event/1178/contributions/6439/">
-      <img src="figures/checkmate-atlas-full-models.png"; width=50%>
+      <img src="figures/checkmate-atlas-full-models.png"; width=70%>
    </a>
 </p>
 .caption[Signal region combination in CheckMATE]
 <p style="text-align:center;">
    <a href="https://conference.ippp.dur.ac.uk/event/1178/contributions/6454/">
-      <img src="figures/smodels-atlas-control-regions.png"; width=50%>
+      <img src="figures/smodels-atlas-control-regions.png"; width=70%>
    </a>
 </p>
 .caption[New developments in SModelS]
+]
+
+---
+# Fuller HEPData information
+
+.kol-1-2[
+.huge[
+* Multiple theory tools are now refactoring to interface with new `spey` likelihood building framework
+* With full statistical models from ATLAS are able to properly handle nuisance parameters for improved combinations
+]
+]
+.kol-1-2[
+<p style="text-align:center;">
+   <a href="https://conference.ippp.dur.ac.uk/event/1178/contributions/6436/">
+      <img src="figures/spey-full-likelihoods.png"; width=100%>
+   </a>
+</p>
+.caption[Spey: smooth inference for reinterpretation studies]
+]
+
+---
+# Fuller HEPData information
+
+.kol-1-2[
+.huge[
+* Multiple theory tools are now refactoring to interface with new `spey` likelihood building framework
+* With full statistical models from ATLAS are able to properly handle nuisance parameters for improved combinations
+]
+]
+.kol-1-2[
+<p style="text-align:center;">
+   <a href="https://conference.ippp.dur.ac.uk/event/1178/contributions/6436/">
+      <img src="figures/spey-atlas-susy-2018-31-plot.png"; width=100%>
+   </a>
+</p>
+.caption[Spey: smooth inference for reinterpretation studies]
 ]
 
 
