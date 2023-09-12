@@ -27,6 +27,7 @@ September 12th, 2023
 .large[
 * Perspectives from the [8th workshop](https://conference.ippp.dur.ac.uk/event/1178/) of the [Forum on the interpretation of the LHC results for BSM studies](https://twiki.cern.ch/twiki/bin/view/LHCPhysics/InterpretingLHCresults)
    - First meeting of the [LHC EFT Working Group](https://lpcc.web.cern.ch/lhc-eft-wg) with the Reinterpretation Forum
+   - Multiple contributions from Belle II, working to follow reinterpretation best practices
 
 * Much to summarize from an engaging week of discussions with ATLAS, CMS, Belle II, and theory, but focusing on
    - Accomplishments in publishing .bold[rich HEPData and full statistical models]
@@ -229,7 +230,7 @@ September 12th, 2023
    - Use of open source machine learning framework
    - Serialize ML model in preservation format for inference (e.g. [ONNX](https://onnx.ai/), [lwtnn](https://github.com/lwtnn/lwtnn))
    - Improved definitions and documentation of all input and output variables for ML model
-   - Leveraging `rivet` or `SimpleAnlaysis`
+   - Leverage validated analysis code implementation (e.g.`rivet` or `SimpleAnlaysis`)
 ]
 ]
 .kol-1-2[
