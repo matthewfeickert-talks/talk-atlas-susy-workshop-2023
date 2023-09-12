@@ -12,13 +12,13 @@ count: false
 
 September 12th, 2023
 
----
+<!-- ---
 # Talk notes
 
 * ATLAS Summary of the 2023 (Re)interpretation of the LHC results for new physics
 * Talk time: 20 minutes
    - talk: 15 minutes
-   - questions: 5 minutes
+   - questions: 5 minutes -->
 
 ---
 # LHC Reinterpretation Forum 2023
@@ -154,6 +154,29 @@ September 12th, 2023
 ]
 
 ---
+# ML representations of profiled likelihoods
+
+.kol-1-3[
+.large[
+* While full statistical models allow for calculating the profiled likelihood during reinterpretation, the additional computation time might be traded for faster approximations for large surveys
+* Learning a DNN representation of the profile likelihood allows for speedup while maintaining decent accuracy
+]
+]
+.kol-2-3[
+<p style="text-align:center;">
+   <a href="https://conference.ippp.dur.ac.uk/event/1178/contributions/6435/">
+      <img src="figures/ml-profile-likelihood.png"; width=100%>
+   </a>
+</p>
+
+.caption[[Parametrising profiled likelihoods with neural networks, Humberto Reyes-González](https://conference.ippp.dur.ac.uk/event/1178/contributions/6435/)]
+
+.large[
+* NN model serialzed to ONNX distributed to Zenodo
+]
+]
+
+---
 # Challenges: Publication of ML data products
 
 .kol-1-2[
@@ -195,12 +218,12 @@ Backup
 ---
 # Talks from ATLAS Collaborators
 
+* [Testing the scalar triplet solution to CDF's heavy $W$ problem at the LHC](https://conference.ippp.dur.ac.uk/event/1178/contributions/6447/), Jon Butterworth
 * [Reduce, Reuse, Reinterpret](https://conference.ippp.dur.ac.uk/event/1178/contributions/6442/), Giordon Stark
 * [Active Learning for analysis reinterpretation and constraining additional physics parameters](https://conference.ippp.dur.ac.uk/event/1178/contributions/6449/), Christian Weber
 * [Using unbinned measurements for new physics](https://conference.ippp.dur.ac.uk/event/1178/contributions/6431/), Ben Nachman
 * [HEP Statistics Serialization Standard](https://conference.ippp.dur.ac.uk/event/1178/contributions/6463/), Carsten Burgard
 * [Reusing Neural Networks: Lessons learned and Suggestions for the future](https://conference.ippp.dur.ac.uk/event/1178/contributions/6461/), Tomasz Procter
-* [Parametrising profiled likelihoods with neural networks](https://conference.ippp.dur.ac.uk/event/1178/contributions/6435/), Humberto Reyes-González
 * [Global Effective Field Theory fits from ATLAS](https://conference.ippp.dur.ac.uk/event/1178/contributions/6441/), Rahul Balasubramanian
 
 ---
