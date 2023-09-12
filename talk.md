@@ -251,6 +251,7 @@ September 12th, 2023
 .huge[
 * Clear advantage that ATLAS has over CMS at the moment is publication of full statistical models and rich HEPData
    - Broader community loudly wants to use it and wants to cite it when used
+   - Theory community explicitly requests full statistical models continue to be published
 * ML continues to bring new approaches to reinterpretation and community recommendations
    - Les Houches guide to reusable ML models in LHC analyses guidelines
    - Across theory and experiment advantages being seen in terms of compute saving
