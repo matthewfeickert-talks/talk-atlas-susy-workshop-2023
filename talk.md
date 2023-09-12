@@ -43,7 +43,7 @@ September 12th, 2023
 ]
 
 ---
-# HEPData benefits: Full statistical models
+# HEPData gains: Full statistical models
 
 .kol-1-2[
 .huge[
@@ -68,7 +68,7 @@ September 12th, 2023
 ]
 
 ---
-# HEPData benefits: Full statistical models
+# HEPData gains: Full statistical models
 
 .kol-1-2[
 .huge[
@@ -86,7 +86,7 @@ September 12th, 2023
 ]
 
 ---
-# HEPData benefits: Full statistical models
+# HEPData gains: Full statistical models
 
 .kol-1-2[
 .huge[
@@ -104,7 +104,7 @@ September 12th, 2023
 ]
 
 ---
-# HEPData benefits: Full statistical models
+# HEPData gains: Full statistical models
 
 .kol-1-2[
 .large[
@@ -130,7 +130,7 @@ September 12th, 2023
 ]
 
 ---
-# HEPData benefits: Full statistical models
+# HEPData gains: Full statistical models
 
 .kol-1-2[
 .huge[
