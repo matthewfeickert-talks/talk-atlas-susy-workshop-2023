@@ -32,6 +32,27 @@ September 12th, 2023
 * [Global Effective Field Theory fits from ATLAS](https://conference.ippp.dur.ac.uk/event/1178/contributions/6441/), Rahul Balasubramanian
 
 ---
+# LHC Reinterpretation Forum 2023
+
+.kol-1-2[
+.large[
+* Perspectives from the [8th workshop](https://conference.ippp.dur.ac.uk/event/1178/) of the [Forum on the interpretation of the LHC results for BSM studies](https://twiki.cern.ch/twiki/bin/view/LHCPhysics/InterpretingLHCresults)
+
+* Much to summarize from an engaging week, so instead focusing on
+   - Accomplishments in publishing .bold[rich HEPData and full statistical models]
+   - Work towards publishing and reusing .bold[machine learning workflows]
+   - First meeting of the [LHC EFT Working Group](https://lpcc.web.cern.ch/lhc-eft-wg) with the Reinterpretation Forum
+]
+]
+.kol-1-2[
+<p style="text-align:center;">
+   <a href="https://conference.ippp.dur.ac.uk/event/1178/">
+      <img src="https://conference.ippp.dur.ac.uk/event/1178/attachments/5014/6449/Screenshot%202023-08-31%20at%207.14.40%20am.png"; width=100%>
+   </a>
+</p>
+]
+
+---
 # My motivations on this topic
 
 .kol-1-2[
